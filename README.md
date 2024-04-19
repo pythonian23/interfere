@@ -7,3 +7,6 @@ A small raylib application to mess with interfering sine waves
 | Left/Middle/Right Click | Set point      |
 |           Click + Space | Point/Axis/Off |
 |                   Enter | Color view     |
+
+## Demo
+![Demo](./interfere.mp4)
