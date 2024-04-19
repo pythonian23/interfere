@@ -106,11 +106,14 @@ int main(void)
 							A, B, C, 255}
 				);
 				else
+			if (off == 3)
+				ImageDrawPixelV(&img, Q, BLACK);
+			else
 				ImageDrawPixelV(&img, Q, (Color) {
 						(A + B + C) / (3 - off),
 						(A + B + C) / (3 - off),
 						(A + B + C) / (3 - off), 255}
-				);
+			);
 			}
 		UpdateTexture(txt, img.data);
 
