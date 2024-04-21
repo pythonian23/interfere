@@ -9,4 +9,4 @@ A small raylib application to mess with interfering sine waves
 |                   Enter | Color view     |
 
 ## Demo
-[Youtube](https://www.youtube.com/watch?v=HN7mVOQxN34)
+https://github.com/pythonian23/interfere/assets/63051526/cee1003b-0e31-4903-8a17-87b8385ac01e
